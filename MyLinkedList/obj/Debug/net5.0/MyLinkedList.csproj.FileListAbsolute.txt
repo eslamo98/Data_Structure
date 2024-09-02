@@ -1,0 +1,16 @@
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\bin\Debug\net5.0\MyLinkedList.exe
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\bin\Debug\net5.0\MyLinkedList.deps.json
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\bin\Debug\net5.0\MyLinkedList.runtimeconfig.json
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\bin\Debug\net5.0\MyLinkedList.runtimeconfig.dev.json
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\bin\Debug\net5.0\MyLinkedList.dll
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\bin\Debug\net5.0\ref\MyLinkedList.dll
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\bin\Debug\net5.0\MyLinkedList.pdb
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\obj\Debug\net5.0\MyLinkedList.csproj.AssemblyReference.cache
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\obj\Debug\net5.0\MyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\obj\Debug\net5.0\MyLinkedList.AssemblyInfoInputs.cache
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\obj\Debug\net5.0\MyLinkedList.AssemblyInfo.cs
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\obj\Debug\net5.0\MyLinkedList.csproj.CoreCompileInputs.cache
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\obj\Debug\net5.0\MyLinkedList.dll
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\obj\Debug\net5.0\ref\MyLinkedList.dll
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\obj\Debug\net5.0\MyLinkedList.pdb
+D:\studing\C#\Data Structure\MyLinkedList\MyLinkedList\obj\Debug\net5.0\MyLinkedList.genruntimeconfig.cache
