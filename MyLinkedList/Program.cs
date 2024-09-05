@@ -118,14 +118,35 @@ namespace MyLinkedList
             #endregion
 
             #region Queue
-            CustomQueue<int> q = new CustomQueue<int>(5);
+            //CustomQueue<int> q = new CustomQueue<int>(5);
 
-            q.Enqueue(4);
-            q.Enqueue(3);
-            q.Enqueue(2);
-            q.Enqueue(1);
-            q.Enqueue(5);
-            q.Print();
+            //q.Enqueue(4);
+            //q.Enqueue(3);
+            //q.Enqueue(2);
+            //q.Enqueue(1);
+            //q.Enqueue(5);
+            //q.Print();
+            #endregion
+
+            #region BTree
+            CustomBTree tree = new CustomBTree();
+            Console.WriteLine(tree.Contains(90));
+            tree.Add(90);
+            tree.Add(50);
+            tree.Add(40);
+            tree.Add(100);
+            tree.Add(140);
+            tree.PrintPreOrder();
+            Console.WriteLine();
+            tree.PrintPostOrder();
+            Console.WriteLine();
+            tree.PrintInOrder();
+            Console.WriteLine();
+            Console.WriteLine(tree.Contains(90));
+            Console.WriteLine(tree.Contains(140));
+            Console.WriteLine(tree.Contains(40));
+            Console.WriteLine(tree.Contains(0));
+            Console.WriteLine(tree.Contains(200));
             #endregion
         }
 
